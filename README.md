@@ -16,3 +16,5 @@ Padim:    https://www.padrim.com.br/aXR6CyberSecurity <br>
 2 - chmod 777 Correcao_de_erros_no_Linux.sh
 3 - ./Correcao_de_erros_no_Linux.sh
 ```
+# Mais explicações no YouTube:
+[![#Extras[aXR6] - Corrigindo problemas no Linux (APT) - 2019](https://i.imgur.com/qecoSs0.png)](https://www.youtube.com/watch?v=VtodRazzUU4)
